@@ -8,5 +8,5 @@ adoptopenjdk/openjdk8:alpine [Docker Hub](https://hub.docker.com/r/adoptopenjdk/
 
 ### Versões build
 
-* Build tools - `29.0.3`
+* Build tools - `30.0.1`
 * Platform tools - `29`
